@@ -1,0 +1,17 @@
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\dataload\CustomersOpportunityLoader.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\web\OppMngmtServlet.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\loader\FileLoader.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\dataload\OpportunityTextLoader.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\org\persistence\Opportunity.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\dataload\CustomersLoader.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\org\persistence\Customer.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\crud\OpportunityCRUD.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\services\OppMngmtCollectionProcessor.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\services\FilterExpressionVisitor.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\org\persistence\CustomerOpportunity.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\crud\DBConnection.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\crud\CustomerOpportunityCRUD.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\crud\CustomerCRUD.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\services\OppMngmtEntityProcessor.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\util\Util.java
+C:\Users\rruggeri\eclipse-oxygen-workspace\sap-cloud-opportunity-management\src\com\eone\services\OppMngmtEdmProvider.java

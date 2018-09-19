@@ -1,0 +1,17 @@
+com\eone\dataload\OpportunityTextLoader.class
+com\eone\services\OppMngmtEdmProvider.class
+com\eone\crud\CustomerCRUD.class
+org\persistence\CustomerOpportunity.class
+com\eone\services\OppMngmtCollectionProcessor.class
+com\eone\util\Util.class
+com\eone\web\OppMngmtServlet.class
+com\eone\dataload\CustomersLoader.class
+org\persistence\Opportunity.class
+com\eone\crud\DBConnection.class
+com\eone\crud\OpportunityCRUD.class
+com\eone\crud\CustomerOpportunityCRUD.class
+org\persistence\Customer.class
+com\eone\services\OppMngmtEntityProcessor.class
+com\eone\services\FilterExpressionVisitor.class
+com\eone\dataload\CustomersOpportunityLoader.class
+com\eone\loader\FileLoader.class
